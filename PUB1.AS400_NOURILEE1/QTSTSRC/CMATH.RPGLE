@@ -1,6 +1,7 @@
 000100160825     h option(*nodebugio) bnddir('MATHDIR')
 000200160825     h dftactgrp(*NO)  actgrp('as400code')
 000201160825
+000202160826      * this is a comment to see changes
 000400160825      /copy *libl/qtstsrc,mathpr
 000500160825
 000600160825     d $num1           s             15s 2 inz(20)
