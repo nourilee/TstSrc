@@ -4,8 +4,8 @@
 000202160826      * this is a comment to see changes
 000400160825      /copy *libl/qtstsrc,mathpr
 000500160825
-000600160825     d $num1           s             15s 2 inz(20)
-000700160825     d $num2           s             15s 2 inz(2)
+000600160905     d $num1           s             15s 2 inz(88)
+000700160905     d $num2           s             15s 2 inz(4)
 000800160825     d result          s             15s 2
 000900160825
 001000160825     c                   eval      result = Add($num1:$num2)
